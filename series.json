@@ -12,7 +12,7 @@
     "language": "English",
     "genres": ["Sci-Fi", "Horror", "Mystery"],
     "cast": ["Millie Bobby Brown", "Finn Wolfhard", "Winona Ryder"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/strangerthings.jpeg"
   },
   {
     "id": "S002",
@@ -27,7 +27,7 @@
     "language": "English",
     "genres": ["Psychological Thriller", "Crime", "Drama"],
     "cast": ["Penn Badgley", "Victoria Pedretti"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/you.jpeg"
   },
   {
     "id": "S003",
@@ -42,7 +42,7 @@
     "language": "English",
     "genres": ["Drama", "Mystery", "Teen"],
     "cast": ["Ama Qamata", "Khosi Ngema"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/bloodandwater.webp"
   },
   {
     "id": "S004",
@@ -57,7 +57,7 @@
     "language": "English",
     "genres": ["Crime", "Drama", "Mystery"],
     "cast": ["Viola Davis", "Alfred Enoch", "Jack Falahee"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/htgawm.jpeg"
   },
   {
     "id": "S005",
@@ -87,7 +87,7 @@
     "language": "English",
     "genres": ["Drama", "Teen"],
     "cast": ["Blake Lively", "Leighton Meester", "Penn Badgley"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/gossipgirl.jpeg"
   },
   {
     "id": "S007",
@@ -102,7 +102,7 @@
     "language": "English",
     "genres": ["Drama", "Teen", "Psychological"],
     "cast": ["Zendaya", "Hunter Schafer", "Jacob Elordi"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/euphoria.jpeg"
   },
   {
     "id": "S008",
@@ -117,7 +117,7 @@
     "language": "Korean",
     "genres": ["Thriller", "Drama", "Survival"],
     "cast": ["Lee Jung-jae", "Park Hae-soo", "HoYeon Jung"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/squidgame.webp"
   },
   {
     "id": "S009",
@@ -145,7 +145,7 @@
     "minAge": 16,
     "status": "Ended",
     "language": "Japanese",
-    "genres": ["Action", "Drama", "Fantasy"],
+    "genres": ["Action", "Drama", "Fantasy", "Anime"],
     "cast": ["Yuki Kaji", "Marina Inoue", "Yui Ishikawa"],
     "image": ""
   },
@@ -160,7 +160,7 @@
     "minAge": 16,
     "status": "Ended",
     "language": "Japanese",
-    "genres": ["Mystery", "Thriller", "Supernatural"],
+    "genres": ["Mystery", "Thriller", "Supernatural", "Anime"],
     "cast": ["Mamoru Miyano", "Kappei Yamaguchi", "Aya Hirano"],
     "image": ""
   },
@@ -175,8 +175,8 @@
     "minAge": 16,
     "status": "Ongoing",
     "language": "Korean",
-    "genres": ["Action", "Fantasy", "Adventure"],
+    "genres": ["Action", "Fantasy", "Adventure", "Anime"],
     "cast": ["Choi Seong-hoon", "Lee Sung-joon"],
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/sololevelling.jpeg"
   }
 ]

@@ -19,7 +19,7 @@
     "subscriptionPrice": 14.99,
     "foundedYear": 1972,
     "founder": "Charles Dolan",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/6a6851c27a6552e7dc24684e71b6efbdce562eba/images/hbo.svg"
   },
   {
     "id": "N003",
@@ -30,7 +30,7 @@
     "subscriptionPrice": 4.99,
     "foundedYear": 2020,
     "founder": "NBCUniversal",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/peacock.jpeg"
   },
   {
     "id": "N004",
@@ -41,7 +41,7 @@
     "subscriptionPrice": 7.99,
     "foundedYear": 2019,
     "founder": "The Walt Disney Company",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/disneyplus.jpeg"
   },
   {
     "id": "N005",
