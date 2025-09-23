@@ -1,0 +1,57 @@
+[
+  {
+    "id": "N001",
+    "name": "Netflix",
+    "country": "United States",
+    "language": "English",
+    "website": "https://www.netflix.com",
+    "subscriptionPrice": 15.99,
+    "foundedYear": 1997,
+    "founder": "Reed Hastings & Marc Randolph",
+    "image": ""
+  },
+  {
+    "id": "N002",
+    "name": "HBO",
+    "country": "United States",
+    "language": "English",
+    "website": "https://www.hbo.com",
+    "subscriptionPrice": 14.99,
+    "foundedYear": 1972,
+    "founder": "Charles Dolan",
+    "image": ""
+  },
+  {
+    "id": "N003",
+    "name": "Peacock",
+    "country": "United States",
+    "language": "English",
+    "website": "https://www.peacocktv.com",
+    "subscriptionPrice": 4.99,
+    "foundedYear": 2020,
+    "founder": "NBCUniversal",
+    "image": ""
+  },
+  {
+    "id": "N004",
+    "name": "Disney+",
+    "country": "United States",
+    "language": "English",
+    "website": "https://www.disneyplus.com",
+    "subscriptionPrice": 7.99,
+    "foundedYear": 2019,
+    "founder": "The Walt Disney Company",
+    "image": ""
+  },
+  {
+    "id": "N005",
+    "name": "Crunchyroll",
+    "country": "United States",
+    "language": "English",
+    "website": "https://www.crunchyroll.com",
+    "subscriptionPrice": 9.99,
+    "foundedYear": 2006,
+    "founder": "Group of founders (led by Kun Gao)",
+    "image": ""
+  }
+]
