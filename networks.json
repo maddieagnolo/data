@@ -8,7 +8,7 @@
     "subscriptionPrice": 15.99,
     "foundedYear": 1997,
     "founder": "Reed Hastings & Marc Randolph",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/netflix.png"
   },
   {
     "id": "N002",
@@ -52,6 +52,6 @@
     "subscriptionPrice": 9.99,
     "foundedYear": 2006,
     "founder": "Group of founders (led by Kun Gao)",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/maddieagnolo/data/refs/heads/main/images/crunchyroll.avif"
   }
 ]
